@@ -1,7 +1,9 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="HoenScanner" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="openjdk-19" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
     <option name="MAIN_CLASS_NAME" value="com.skyscanner.HoenScannerApplication" />
-    <module name="hoen-scanner" />
+    <module name="skyscanner_forage_task2" />
     <option name="PROGRAM_PARAMETERS" value="server config.yml" />
     <option name="WORKING_DIRECTORY" value="$ContentRoot$" />
     <method v="2">
